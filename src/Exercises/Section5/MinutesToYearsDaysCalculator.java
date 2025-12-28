@@ -22,9 +22,7 @@ public class MinutesToYearsDaysCalculator {
             }
 
             System.out.println(minutes + " min = " + years + " y and " + days + " d");
-
         }
-
     }
 
 }
